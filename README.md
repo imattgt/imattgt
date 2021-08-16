@@ -1,7 +1,6 @@
 ### Hey! Sup?!
 
 - 🔭 I’m Dev Front-End
-- 💬 My Instagram: imattgt_
 - 📫 Contact me on: mateus.tony@hotmail.com   
 - ⚡ I’m a Multi Instrumentalist
 -->
